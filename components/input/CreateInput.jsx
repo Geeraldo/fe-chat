@@ -19,7 +19,6 @@ const styles = StyleSheet.create({
       paddingBottom:"2px"
     },
     TextInput:{
-      flex:2,
         backgroundColor:'white',
         height:'50px',
         borderColor:'#e8e8e8',
@@ -30,7 +29,7 @@ const styles = StyleSheet.create({
     button:{
       flex:1,
       width:"100px",
-      height:"50px",
+      height:"200px",
       textAlign: 'center',
       display: 'inline-block',
 

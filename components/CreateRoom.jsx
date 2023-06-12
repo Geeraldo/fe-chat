@@ -19,6 +19,7 @@ export default function CreateRoom() {
 
 const styles = StyleSheet.create({
     container: {
+
         marginVertical:30,
         marginHorizontal:30,
         paddingBottom:20
